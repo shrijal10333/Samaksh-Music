@@ -8,8 +8,8 @@ let config;
 try {
   config = require(jsonConfig);
 } catch (err) {
-  console.error("config.json not found or is invalid!", err.message);
-  process.exit(1);
+  console.log("config.json not found — falling back to environment variables only.");
+  config = { links: {}, Webhooks: {}, nodes: [], node_options: {} };
 }
 
 // --- Prefer environment variables over config.json values ---
