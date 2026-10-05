@@ -1,132 +1,120 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b022a,100:e11d48&height=320&section=header&text=SAMAKSH%20MUSIC&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=High-Quality%20Discord%20Music%20%26%20Utility%20Bot&descAlignY=60" alt="Samaksh Music Banner" width="100%" />
-
-<img src="https://img.shields.io/badge/---%20%F0%9F%8E%B5%20SAMAKSH%20MUSIC%20----rose-e11d48?style=flat-square" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,34,23,116,114,102&height=340&section=header&text=%F0%9F%8E%B5%20SAMAKSH%20MUSIC&fontSize=80&textBg=false&fontColor=ffffff&fontAlignY=45&desc=Next-Gen%20Discord%20Music%20%26%20Utility%20Experience&descAlignY=65" alt="Samaksh Music" width="100%" />
 
 <p>
-  <img src="https://img.shields.io/badge/Language-TypeScript%2FNode.js-rose?style=for-the-badge&logo=nodedotjs" />
-  <img src="https://img.shields.io/badge/discord.js-v14-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/Version-1.0-rose?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/discord.js-v14.22.1-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-v18%2B-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lavalink-v4-e11d48?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Online%20%E2%9C%94-22c55e?style=for-the-badge" />
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Commands-100%20Slash%20%2B%20114%20Prefix-ec4899?style=for-the-badge" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Status-Online-22c55e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Lavalink-v4-e11d48?style=for-the-badge&logo=audiomack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Support-Samaksh%20Music-5865F2?style=for-the-badge&logo=discord" />
+  <img src="https://img.shields.io/badge/Music-Multi--Source-8b5cf6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Features-Moderation%20%7C%20Automod%20%7C%20Tracking-f97316?style=for-the-badge" />
 </p>
 
 </div>
 
 ---
 
-## ✦ About
+## ✦ About The Bot
 
-> **Samaksh Music** is a feature-rich Discord bot built for crystal-clear music playback, extreme customization, and complete server control — all powered by <b>discord.js v14</b> and <b>Lavalink v4</b>.
-
-<div align="center">
-<img src="https://img.shields.io/badge/%E2%99%A5%EF%B8%8F%20DEVELOPED%20BY-Samaksh%20Music-e11d48?style=for-the-badge" />
-</div>
+> **Samaksh Music** is a **premium-quality Discord music & utility bot** — designed for high-fidelity audio, smooth queue management, full server moderation, invite tracking, giveaways, and more.
+>
+> It is powered by **discord.js v14**, **Kazagumo**, **Shoukaku**, and **Lavalink v4**, with rock-solid hybrid sharding and persistent SQLite storage.
 
 ---
 
-## ⬣ Tech Stack
+## 🎶 Music Capabilities
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-v18%2B-339933?style=flat-square&logo=nodedotjs" />
-  <img src="https://img.shields.io/badge/discord.js-14.22.1-5865F2?style=flat-square&logo=discord" />
-  <img src="https://img.shields.io/badge/Kazagumo-v3.3.0-f97316?style=flat-square" />
-  <img src="https://img.shields.io/badge/Shoukaku-v4.1.1-eab308?style=flat-square" />
-  <img src="https://img.shields.io/badge/better--sqlite3-v12-003B57?style=flat-square" />
-  <img src="https://img.shields.io/badge/Hybrid%20Sharding-Enabled-8b5cf6?style=flat-square" />
-</p>
+| Source | Status |
+|--------|--------|
+| YouTube Music | ✅ Full |
+| YouTube | ✅ Full |
+| Spotify | ✅ Full |
+| Apple Music | ✅ Full |
+| Deezer | ✅ Full |
+| JioSaavn | ✅ Full |
+| Gaana | ✅ Full |
+| SoundCloud | ✅ Full |
 
----
-
-## 🌸 Features
-
-<details>
-<summary><b>🎶 Music Engine</b></summary>
-<br>
-
-| | |
-|---|---|
-| <img src="https://img.shields.io/badge/YouTube%20%7C%20Spotify%20%7C%20Apple%20%7C%20Deezer-ec4899" /> | Full multi-source support |
-| <img src="https://img.shields.io/badge/EQ%20%26%20Filters-8b5cf6" /> | Bassboost, Nightcore, 8D, & more |
-| <img src="https://img.shields.io/badge/Lyrics-e11d48" /> | Synced real-time lyrics |
-| <img src="https://img.shields.io/badge/24/7%20Mode-22c55e" /> | Stay in voice forever |
-| <img src="https://img.shields.io/badge/Autoplay%20%7C%20Queue%20%7C%20Shuffle-f97316" /> | Smart playback control |
-
-</details>
-
-<details>
-<summary><b>🛡️ Moderation & Utility</b></summary>
-<br>
-
-Ban · Kick · Mute · Nuke · Snipe · Lock/Hide · Purge · Rename · Role · Audit · Timers · Vanity · Server/User Info
-
-</details>
-
-<details>
-<summary><b>🤖 Automod & Tracking</b></summary>
-<br>
-
-Anti-link · Anti-spam · Anti-caps · Anti-mention · Anti-emoji · Anti-NSFW · Invite Tracking · Leaderboards · Giveaways
-
-</details>
-
-<details>
-<summary><b>👑 Owner Tools</b></summary>
-<br>
-
-Blacklist · Backup · Restart · Reload · Node stats · Server list
-
-</details>
+**Features:** EQ & Filters (Bassboost, Nightcore, 8D), Real-time Lyrics, 24/7 Mode, Autoplay, Shuffle, Queue, Now Playing Cards, Play-liked Songs, History, Search.
 
 ---
 
-## 💡 Quick Start
+## 🛡️ Moderation & Protection
+
+> Ban · Kick · Mute · Unmute · Nuke · Purge · Lock · Unlock · Hide · Rename · Snipe · Audit · Role · Role-icon · Timeout · Vanity check
+
+**Automod:** Anti-link, Anti-spam, Anti-caps, Anti-mention, Anti-emoji, Anti-NSFW — with heat-based auto-punishments.
+
+---
+
+## 📊 Utility & Tracking
+
+> Userinfo · Serverinfo · Channelinfo · Avatar · Banner · First Message · Timers · Membercount · Boostcount · Voice · Presence · Lists
+
+**Invite Tracking:** Full invite system with fake/rejoin detection, leaderboards, invite codes, and reset options.
+
+**Giveaways:** Start, End, Reroll — with fair winner selection.
+
+---
+
+## 🚀 Quick Start
 
 ```bash
 git clone https://github.com/shrijal10333/Samaksh-Music.git
 cd Samaksh-Music
 npm install
 cp src/config.example.json src/config.json
-# Fill your token in src/config.json
+# Edit src/config.json or provide .env
 node --no-warnings Shard.js
 ```
 
+> You can also configure with a `.env` file — set `TOKEN`, `PREFIX`, `OWNER_ID`, `LINKS_*`, and `LAVALINK_*`.
+
 ---
 
-## ⚙️ Config Highlights
+## ⚙️ Environment Variables
 
 | Key | Description |
 |-----|-------------|
-| `token` | Bot token |
-| `prefix` | Text command prefix |
-| `ownerID` | Owner user IDs |
-| `links.support` | Your Discord invite |
-| `nodes` | Lavalink node(s) |
-
-> ⚠️ Real `src/config.json` is git-ignored — secrets safe!
+| `TOKEN` | Your bot token |
+| `PREFIX` | Command prefix |
+| `OWNER_ID` | Comma-separated owner IDs |
+| `SPOTIFY_ID / SPOTIFY_SECRET` | Spotify credentials |
+| `LASTFM_KEY / LASTFM_SECRET` | Last.fm credentials |
+| `LINKS_SUPPORT/INVITE/GUILD` | Your server invite |
+| `LAVALINK_URL / LAVALINK_AUTH` | Lavalink server |
 
 ---
 
-## 🌸 Support
+## 📡 Hosting
 
-<p align="center">
-  <a href="https://discord.gg/mPuwRxvDmF">
-    <img src="https://img.shields.io/badge/JOIN%20SAMAKSH%20MUSIC-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
+| Platform | Notes |
+|----------|-------|
+| Pterodactyl | Set env vars, startup script `node --no-warnings Shard.js` |
+| VPS / Railway | Use `.env`, `npm start` |
+| Replit | Use Secrets + uptime bot |
+
+---
+
+## 💌 Support
+
+<div align="center">
+
+<a href="https://discord.gg/mPuwRxvDmF"><img src="https://img.shields.io/badge/JOIN%20OUR%20SERVER-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e11d48,100:0b022a&height=120&section=footer" alt="footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,34,116,114,102,9&height=120&section=footer" alt="Footer" width="100%" />
 
-**Made with ❤️ by Samaksh Music**
+**Made with ❤️ for the music lovers — Samaksh Music**
 
 </div>
