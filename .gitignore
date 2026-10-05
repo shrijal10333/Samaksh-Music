@@ -1,0 +1,8 @@
+node_modules/
+.env
+src/config.json
+*.log
+Data/
+dbo.sqlite
+*.zip
+database.db*
